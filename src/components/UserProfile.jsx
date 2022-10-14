@@ -29,7 +29,7 @@ const UserProfile = () => {
         />
         <div>
           <p className="font-semibold text-xl dark:text-gray-200">
-            Allwyn Bernet Samuel D
+            Allwyn Samuel D
           </p>
           <p className="text-gray-500 text-sm dark:text-gray-400">
             Administrator
